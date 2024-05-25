@@ -5,7 +5,7 @@ Awesome list of Mixture-of-Experts (MoE)
 
 - Add papers of ICLR 2024, CVPR 2024, ICCV 2023
 
-## Table of Contents
+[//]: # (## Table of Contents)
 
 ## Papers
 
@@ -45,6 +45,7 @@ Awesome list of Mixture-of-Experts (MoE)
 
 
 [//]: # (## Citation)
+
 
 ## Other
 
