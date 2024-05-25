@@ -3,7 +3,7 @@ Awesome list of Mixture-of-Experts (MoE)
 
 ## News
 
-- Add papers of ICLR 2024, CVPR 2024
+- Add papers of ICLR 2024, CVPR 2024, ICCV 2023
 
 ## Table of Contents
 
@@ -28,6 +28,17 @@ Awesome list of Mixture-of-Experts (MoE)
 | 2024 CVPR           | MoE-Adapters4CL | [Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters](https://arxiv.org/pdf/2403.11549) | [Link](https://github.com/JiazuoYu/MoE-Adapters4CL) |
 | 2024 CVPR           | MLoRE | [BMulti-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/pdf/2403.17749) | [Link](https://github.com/YuqiYang213/MLoRE) |
 | 2024 CVPR           | TC-MoA | [Task-Customized Mixture of Adapters for General Image Fusion](https://arxiv.org/pdf/2403.12494) | [Link](https://github.com/YangSun22/TC-MoA) |
+| 2023 ICCV           | ADVMoE | [Robust Mixture-of-Expert Training for Convolutional Neural Networks](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Robust_Mixture-of-Expert_Training_for_Convolutional_Neural_Networks_ICCV_2023_paper.pdf) | [Link](https://github.com/OPTML-Group/Robust-MoE-CNN) |
+| 2023 ICCV           | GNT-MOVE | [Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts](https://arxiv.org/pdf/2308.11793) | [Link](https://github.com/VITA-Group/GNT-MOVE) |
+| 2023 ICCV           | TaskExpert | [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](https://arxiv.org/pdf/2307.15324) | [Link](https://github.com/prismformore/Multi-Task-Transformer) |
+| 2023 ICCV           | PnD | [Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts](https://arxiv.org/pdf/2308.10005) | [Link](https://github.com/Jiaxuan-Li/PnD) |
+| 2023 ICCV           | MoE-Fusion | [Multi-Modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion](https://arxiv.org/pdf/2302.01392) | [Link](https://github.com/SunYM2020/MoE-Fusion) |
+| 2023 ICCV           | AdaMV-MoE | [AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_AdaMV-MoE_Adaptive_Multi-Task_Vision_Mixture-of-Experts_ICCV_2023_paper.pdf) | [Link](https://github.com/google-research/google-research/tree/master/moe_mtl) |
+
+
+
+
+[//]: # (| 2022 NeurIPS        | M³ViT | [M³ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design]&#40;https://arxiv.org/pdf/2210.14793&#41; | [Link]&#40;https://github.com/VITA-Group/M3ViT&#41; |)
 
 
 ## Tutorials
