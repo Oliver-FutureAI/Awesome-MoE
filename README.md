@@ -9,8 +9,14 @@ Awesome list of Mixture-of-Experts (MoE)
 
 ## Papers
 
+Sort in descending chronological order.
+
 | Venue               | Key Name | Title | Code |
 |---------------------| --- | --- | --- |
+| 2024 CVPR           | Omni-SMoLA | [Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts](https://arxiv.org/pdf/2312.00968) | N/A |
+| 2024 CVPR           | MoE-Adapters4CL | [Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters](https://arxiv.org/pdf/2403.11549) | [Link](https://github.com/JiazuoYu/MoE-Adapters4CL) |
+| 2024 CVPR           | MLoRE | [BMulti-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/pdf/2403.17749) | [Link](https://github.com/YuqiYang213/MLoRE) |
+| 2024 CVPR           | TC-MoA | [Task-Customized Mixture of Adapters for General Image Fusion](https://arxiv.org/pdf/2403.12494) | [Link](https://github.com/YangSun22/TC-MoA) |
 | 2024 ICLR           | Lingual-SMoE | [Sparse MoE with Language Guided Routing for Multilingual Machine Translation](https://openreview.net/pdf?id=ySS7hH1smL) | [Link](https://github.com/UNITES-Lab/Lingual-SMoE) |
 | 2024 ICLR           | FLAN-MOE | [Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://openreview.net/pdf?id=6mLjDwYte5) | N/A |
 | 2024 ICLR           | HSQ | [Hybrid Sharing for Multi-Label Image Classification](https://openreview.net/pdf?id=yVJd8lKyVX) | [Link](https://github.com/zihao-yin/HSQ) |
@@ -24,10 +30,6 @@ Awesome list of Mixture-of-Experts (MoE)
 | 2024 ICLR Spotlight | MC-SMoE | [Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy](https://openreview.net/pdf?id=eFWG9Cy3WK) | [Link](https://github.com/UNITES-Lab/MC-SMoE) |
 | 2024 ICLR Spotlight | Soft MoE | [From Sparse to Soft Mixtures of Experts](https://openreview.net/pdf?id=jxpsAj7ltE) | [Link](https://github.com/bwconrad/soft-moe) |
 | 2024 ICLR Oral      | LLMCarbon | [LLMCarbon: Modeling the End-to-End Carbon Footprint of Large Language Models](https://openreview.net/pdf?id=aIok3ZD9to) | [Link](https://github.com/SotaroKaneda/MLCarbon) |
-| 2024 CVPR           | Omni-SMoLA | [Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts](https://arxiv.org/pdf/2312.00968) | N/A |
-| 2024 CVPR           | MoE-Adapters4CL | [Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters](https://arxiv.org/pdf/2403.11549) | [Link](https://github.com/JiazuoYu/MoE-Adapters4CL) |
-| 2024 CVPR           | MLoRE | [BMulti-Task Dense Prediction via Mixture of Low-Rank Experts](https://arxiv.org/pdf/2403.17749) | [Link](https://github.com/YuqiYang213/MLoRE) |
-| 2024 CVPR           | TC-MoA | [Task-Customized Mixture of Adapters for General Image Fusion](https://arxiv.org/pdf/2403.12494) | [Link](https://github.com/YangSun22/TC-MoA) |
 | 2023 ICCV           | ADVMoE | [Robust Mixture-of-Expert Training for Convolutional Neural Networks](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Robust_Mixture-of-Expert_Training_for_Convolutional_Neural_Networks_ICCV_2023_paper.pdf) | [Link](https://github.com/OPTML-Group/Robust-MoE-CNN) |
 | 2023 ICCV           | GNT-MOVE | [Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts](https://arxiv.org/pdf/2308.11793) | [Link](https://github.com/VITA-Group/GNT-MOVE) |
 | 2023 ICCV           | TaskExpert | [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](https://arxiv.org/pdf/2307.15324) | [Link](https://github.com/prismformore/Multi-Task-Transformer) |
