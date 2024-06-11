@@ -18,7 +18,7 @@ Kindly consider giving a star if you find this list helpful. Thanks!
 
 ## Papers
 
-Sort in descending chronological order.
+Sort in descending chronological order, and conference event date.
 
 | Venue               | Key Name | Title | Code |
 |---------------------|----------|-------|------|
