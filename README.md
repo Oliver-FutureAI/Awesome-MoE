@@ -2,11 +2,10 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Stars](https://img.shields.io/github/stars/Oliver-FutureAI/Awesome-MoE)
-[![Visits Badge](https://badges.pufler.dev/visits/Oliver-FutureAI/Awesome-MoE)](https://badges.pufler.dev/visits/Oliver-FutureAI/Awesome-MoE)
 
 Awesome list of Mixture-of-Experts (MoE) papers.
 
-Kindly consider giving a star if you find this list helpful. Thanks!
+Kindly consider giving it a star if you find this list helpful. Thanks!
 
 ## News
 - [2024-06-11] - Add papers of NeurIPS 2022, ICML 2022, ICML 2023
