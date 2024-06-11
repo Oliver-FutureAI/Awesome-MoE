@@ -9,8 +9,9 @@ Awesome list of Mixture-of-Experts (MoE) papers.
 Kindly consider giving a star if you find this list helpful. Thanks!
 
 ## News
-- Add papers of NeurIPS 2023, ICCV 2023, CVPR 2023, ICLR 2023, NeurIPS 2022
-- Add papers of ICLR 2024, CVPR 2024, ICCV 2023
+- [2024-06-11] - Add papers of NeurIPS 2022, ICML 2022, ICML 2023
+- [2024-06-10] - Add papers of NeurIPS 2023, ICCV 2023, CVPR 2023, ICLR 2023 
+- [2024-05-24] - Add papers of ICLR 2024, CVPR 2024, ICCV 2023
 
 [//]: # (## Table of Contents)
 
@@ -47,17 +48,30 @@ Sort in descending chronological order.
 | 2023 ICCV           | TaskExpert | [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](https://arxiv.org/pdf/2307.15324) | [Link](https://github.com/prismformore/Multi-Task-Transformer) | 
 | 2023 ICCV           | GNT-MOVE | [Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts](https://arxiv.org/pdf/2308.11793) | [Link](https://github.com/VITA-Group/GNT-MOVE) | 
 | 2023 ICCV           | ADVMoE | [Robust Mixture-of-Expert Training for Convolutional Neural Networks](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Robust_Mixture-of-Expert_Training_for_Convolutional_Neural_Networks_ICCV_2023_paper.pdf) | [Link](https://github.com/OPTML-Group/Robust-MoE-CNN) | 
+| 2023 ICML           | pMoE | [Patch-level Routing in Mixture-of-Experts is Provably Sample-efficient for Convolutional Neural Networks](https://proceedings.mlr.press/v202/chowdhury23a/chowdhury23a.pdf) | [Link](https://github.com/nowazrabbani/pMoE_CNN) | 
 | 2023 CVPR           | ERNIE-ViLG 2.0 | [ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts](https://arxiv.org/pdf/2210.15257) | N/A | 
 | 2023 CVPR           | Mod-Squad | [Mod-Squad: Designing Mixtures of Experts As Modular Multi-Task Learners](https://arxiv.org/pdf/2212.08066) | [Link](https://github.com/UMass-Foundation-Model/Mod-Squad) | 
-| 2023 ICLR           | N/A | [A Mixture-of-Expert Approach to RL-based Dialogue Management](https://arxiv.org/pdf/2206.00059) | N/A | 
 | 2023 ICLR           | GMoE | [Sparse Mixture-of-Experts are Domain Generalizable Learners](https://arxiv.org/pdf/2206.04046) | [Link](https://github.com/Luodian/Generalizable-Mixture-of-Experts) | 
 | 2023 ICLR           | SMoE-Dropout | [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://arxiv.org/pdf/2303.01610) | [Link](https://github.com/VITA-Group/Random-MoE-as-Dropout) | 
 | 2023 ICLR           | KiC | [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models](https://arxiv.org/pdf/2210.16433) | N/A | 
 | 2023 ICLR           | MoCE | [Task-customized Masked Autoencoder via Mixture of Cluster-conditional Experts](https://arxiv.org/pdf/2402.05382) | N/A | 
 | 2023 ICLR           | SCoMoE | [SCoMoE: Efficient Mixtures of Experts with Structured Communication](https://openreview.net/pdf?id=s-c96mSU0u5) | [Link](https://github.com/ZhiYuanZeng/fairseq-moe) | 
 | 2023 ICLR           | Switch-NeRF | [Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields](https://openreview.net/pdf?id=PQ2zoIZqvm) | [Link](https://github.com/MiZhenxing/Switch-NeRF) | 
+| 2022 NeurIPS           | N/A | [Towards Understanding the Mixture-of-Experts Layer in Deep Learning](https://papers.nips.cc/paper_files/paper/2022/file/91edff07232fb1b55a505a9e9f6c0ff3-Paper-Conference.pdf) | [Link](https://github.com/uclaml/MoE) | 
+| 2022 NeurIPS           | Uni-Perceiver-MoE | [Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs](https://papers.nips.cc/paper_files/paper/2022/file/11fc8c98b46d4cbdfe8157267228f7d7-Paper-Conference.pdf) | [Link](https://github.com/fundamentalvision/Uni-Perceiver) | 
+| 2022 NeurIPS           | LIMoE | [Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts](https://papers.nips.cc/paper_files/paper/2022/file/3e67e84abf900bb2c7cbd5759bfce62d-Paper-Conference.pdf) | N/A | 
+| 2022 NeurIPS           | TA-MoE | [TA-MoE: Topology-Aware Large Scale Mixture-of-Expert Training](https://papers.nips.cc/paper_files/paper/2022/file/8b465dd58ac50e1b0b22894fd581f62f-Paper-Conference.pdf) | N/A | 
+| 2022 NeurIPS           | Meta-DMoE | [Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts](https://papers.nips.cc/paper_files/paper/2022/file/8bd4f1dbc7a70c6b80ce81b8b4fdc0b2-Paper-Conference.pdf) | [Link](https://github.com/n3il666/Meta-DMoE) | 
 | 2022 NeurIPS           | M³ViT | [M³ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design](https://arxiv.org/pdf/2210.14793) | [Link](https://github.com/VITA-Group/M3ViT) | 
+| 2022 NeurIPS           | SMoE | [Spatial Mixture-of-Experts](https://papers.nips.cc/paper_files/paper/2022/file/4c5e2bcbf21bdf40d75fddad0bd43dc9-Paper-Conference.pdf) | [Link](https://github.com/spcl/smoe) | 
+| 2022 NeurIPS           | MoE-NPs | [Learning Expressive Meta-Representations with Mixture of Expert Neural Processes](https://papers.nips.cc/paper_files/paper/2022/file/a815fe7cad6af20a6c118f2072a881d2-Paper-Conference.pdf) | N/A | 
+| 2022 NeurIPS           | VLMo | [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://papers.nips.cc/paper_files/paper/2022/file/d46662aa53e78a62afd980a29e0c37ed-Paper-Conference.pdf) | [Link](https://github.com/microsoft/unilm/tree/master/vlmo) | 
+| 2022 NeurIPS           | X-MoE | [On the Representation Collapse of Sparse Mixture of Experts](https://papers.nips.cc/paper_files/paper/2022/file/df4f371f1f89ec8ba5014b3310578048-Paper-Conference.pdf) | N/A | 
+| 2022 ICML           | NID | [Neural Implicit Dictionary Learning via Mixture-of-Expert Training](https://proceedings.mlr.press/v162/wang22d/wang22d.pdf) | [Link](https://github.com/VITA-Group/Neural-Implicit-Dict) | 
+| 2022 ICML           | GLaM | [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://proceedings.mlr.press/v162/du22c/du22c.pdf) | N/A | 
+| 2022 ICML           | DeepSpeed-MoE | [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf) | [Link](https://github.com/microsoft/DeepSpeed) | 
 
+* Note: there are no papers of MoE topic in 2022 ECCV, 2022 CVPR and 2022 ICLR.
 
 [//]: # (## Tutorials)
 
